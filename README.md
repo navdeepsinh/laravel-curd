@@ -75,7 +75,5 @@ This project is open-source and available under the MIT License.
 
 ## ✅ Happy Coding! 🚀
 
-This version includes **emoji icons**, **code blocks**, **sections with headers**, and a **well-structured layout** to make your README visually appealing. Let me know if you need any modifications! 🚀
-
 
 
